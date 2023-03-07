@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-cart-logic/static/css/main.9b42ebd0.css",
+    "main.js": "/simple-cart-logic/static/js/main.3bc28dd4.js",
+    "static/js/787.fd7860a1.chunk.js": "/simple-cart-logic/static/js/787.fd7860a1.chunk.js",
+    "index.html": "/simple-cart-logic/index.html",
+    "main.9b42ebd0.css.map": "/simple-cart-logic/static/css/main.9b42ebd0.css.map",
+    "main.3bc28dd4.js.map": "/simple-cart-logic/static/js/main.3bc28dd4.js.map",
+    "787.fd7860a1.chunk.js.map": "/simple-cart-logic/static/js/787.fd7860a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b42ebd0.css",
+    "static/js/main.3bc28dd4.js"
+  ]
+}
