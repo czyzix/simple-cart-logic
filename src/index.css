@@ -2,15 +2,6 @@
   box-sizing: border-box;
 }
 
-html {
-  background: linear-gradient(to left top, rgb(179, 112, 255),rgb(255, 219, 140));
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-}
-
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -46,6 +37,28 @@ button {
 button:hover {
   background-color: white;
   color: black;
+}
+
+button.add {
+  background-color: aquamarine;
+  width: 1.5rem;
+}
+
+button.remove {
+  background-color: rgb(255, 154, 154);
+  width: 1.5rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+button.badge {
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  width: 1.5rem;
 }
 
 .card {
@@ -86,8 +99,12 @@ button:hover {
 }
 
 .block {
-  background-color: rgba(88, 21, 21, 0.479);
+  background-color: rgba(0, 0, 0, 0.479);
   border-radius: 10px;
   padding: 1rem;
   margin: .5rem;
+}
+
+.text-right {
+  text-align: right;
 }
